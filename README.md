@@ -14,7 +14,7 @@
 
 <img align="right" width="180" src="https://skillicons.dev/icons?i=java,spring,react&theme=dark" />
 
-> Desarrollador full stack de Mendoza, Argentina 🇦🇷, y estudiante en paralelo. Mi combo principal es **Spring Boot + React**, y hoy estoy enfocado en llevar un ecommerce propio de punta a punta: pagos con Mercado Pago, notificaciones en tiempo real y un panel admin funcional.
+> Desarrollador full stack de Mendoza, Argentina 🇦🇷, y estudiante en paralelo. Mi combo principal es **Spring Boot + React**.
 >
 > Fuera del backend, también me copa el lado visual de la web — animaciones, 3D con Three.js, ese tipo de detalles que hacen que un sitio se sienta distinto.
 
