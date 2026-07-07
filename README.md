@@ -1,54 +1,60 @@
-<h1 align="center">Hola, soy Mauro 👋</h1>
-<h3 align="center">Desarrollador Web Full Stack | Mendoza, Argentina 🇦🇷</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Mauro%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Full%20Stack%20·%20Mendoza,%20Argentina&descAlignY=55&descSize=18" width="100%"/>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+React+Developer;Construyendo+un+ecommerce+full+stack;Integrando+Mercado+Pago+%2B+WebSockets;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+</div>
+<br>
+🚀 Sobre mí
 
-<p align="center">
-  Freelance dev bajo la marca <b>DealPush</b> — construyo webs y sistemas a medida con Spring Boot y React.
-</p>
+yamlnombre: Mauro
+ubicacion: Mendoza, Argentina 🇦🇷
+ocupacion: Estudiante & Desarrollador Full Stack
+stack_principal: [Spring Boot, React, JavaScript]
+proyecto_actual: Ecommerce con Mercado Pago + notificaciones en tiempo real (WebSockets)
+estudiando: [Bases de Datos II, Auditoría de Sistemas (COBIT)]
+explorando: [Three.js, GSAP, diseño web 3D]
 
 <br>
+🛠️ Stack & Herramientas
 
-### 🚀 Sobre mí
-
-- 💻 Trabajo principalmente con **Spring Boot** en el backend y **React** en el frontend
-- 🛒 Ahora mismo estoy desarrollando un **ecommerce full stack** con integración de **Mercado Pago** y notificaciones de pedidos en tiempo real vía **WebSockets**
-- 📚 Estudiante — cursando materias como Bases de Datos II e Auditoría de Sistemas
-- 🎨 Además del código, exploro diseño 3D en la web con **Three.js** y animaciones con **GSAP**
-- 🌱 Aprendiendo constantemente sobre arquitectura de software, SEO técnico y buenas prácticas de auditoría (COBIT)
-
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,vite,mysql,threejs,git,github,vscode&theme=dark" />
+</div>
 <br>
+💼 Proyectos destacados
 
-### 🛠️ Stack & Herramientas
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+🛍️ Ecommerce Full Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+Spring Boot + React con integración de Mercado Pago y panel admin con notificaciones de pedidos en tiempo real vía WebSocket/STOMP.
 
+Spring Boot React WebSocket Mercado Pago API
+
+</td>
+<td width="50%">
+🎬 THRESHOLD
+
+Landing page cinemática 3D construida con React Three Fiber, animaciones scroll-driven con GSAP y efectos de post-procesado.
+
+React Three.js GSAP WebGL
+
+</td>
+</tr>
+</table>
+</div>
 <br>
+📊 Stats
 
-### 💼 Proyectos destacados
-
-- **🛍️ Ecommerce Full Stack** — Spring Boot + React, pagos con Mercado Pago, panel admin con notificaciones de pedidos en tiempo real (WebSocket/STOMP)
-- **🌐 [DealPush](https://dealpush.vercel.app)** — Mi marca de desarrollo web freelance, sitios optimizados con SEO técnico para negocios locales
-- **🎬 THRESHOLD** — Landing page cinemática 3D hecha con React Three Fiber, GSAP ScrollTrigger y efectos de post-procesado
-
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mauro766&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mauro766&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" />
 <br>
-
-### 📫 Contactame
-
-<p align="left">
-  <a href="https://dealpush.vercel.app" target="_blank"><img src="https://img.shields.io/badge/DealPush-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://instagram.com/dealpush" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauro766&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="95%"/>
+</div>
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mauro766&show_icons=true&theme=dark&hide_border=true" alt="stats" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+</div>
