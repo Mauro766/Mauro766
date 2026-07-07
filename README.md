@@ -6,13 +6,13 @@
 <br>
 🚀 Sobre mí
 
-yamlnombre: Mauro
-ubicacion: Mendoza, Argentina 🇦🇷
-ocupacion: Estudiante & Desarrollador Full Stack
-stack_principal: [Spring Boot, React, JavaScript]
-proyecto_actual: Ecommerce con Mercado Pago + notificaciones en tiempo real (WebSockets)
-estudiando: [Bases de Datos II, Auditoría de Sistemas (COBIT)]
-explorando: [Three.js, GSAP, diseño web 3D]
+Soy desarrollador full stack de Mendoza, Argentina 🇦🇷, y estudiante en paralelo. Me metí de lleno en Spring Boot y React como mi combo principal, y hoy estoy enfocado en llevar un ecommerce propio de punta a punta: pagos con Mercado Pago, notificaciones en tiempo real y un panel admin funcional.
+
+Fuera del backend, también me copa el lado visual de la web — animaciones, 3D con Three.js, ese tipo de detalles que hacen que un sitio se sienta distinto.
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <br>
 🛠️ Stack & Herramientas
