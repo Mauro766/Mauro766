@@ -83,23 +83,4 @@ Landing page cinemática 3D construida con **React Three Fiber**, animaciones sc
 
 <br>
 
-## 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mauro766&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mauro766&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauro766&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="95%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
-
 </div>
